@@ -6,7 +6,7 @@
    here when we store the value it's calculate according to there assign calculation method in the function and then after it will get store in array by help of push method.
 */
 console.log(`-----------calculator-----------`);
-
+console.log([` *, /, +, - `]);
 const calculateValue = []; // Array
 
 const simpleCalc = function () {
